@@ -28,5 +28,5 @@ Mindful Journal is a simple journaling prompt app built entirely in **Python**. 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/mindful-journal.git
+   git clone https://github.com/Vania-Kouhsari/Python-Journaling-Prompt-App.git
    cd mindful-journal
